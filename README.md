@@ -18,6 +18,12 @@ The initial dataset contains 500 customer records with information about:
 - Length of customer membership
 - Yearly amount spent
 
+**Dataset source:** [E-Commerce Dataset – Kaggle](https://www.kaggle.com/datasets/abrahamanderson/ecommerce)
+
+**License:** Not specified / unknown on the dataset page.
+
+**Note:** The dataset is not included in this repository because redistribution rights could not be verified.
+
 ### Methodology
 
 **1. Data inspection**
